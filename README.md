@@ -10,7 +10,7 @@ Whether you're here to view my portfolio or learn more about me, the website pro
 
 ## Website Link
 
-![image](https://github.com/KaShiekzmi/Personal-Portfolio-Project-with-Tailwaind/assets/114513868/781624a7-bf0f-472d-be15-3617dcb9c99c)
+https://github.com/KaShiekzmi/Personal-Portfolio-Project-with-Tailwaind/assets/114513868/ff79e8ba-885e-4660-b532-e29c223c657b
 Explore my personal website by clicking [here](https://kashiekazmi.000webhostapp.com/).
 
 ## Contact
