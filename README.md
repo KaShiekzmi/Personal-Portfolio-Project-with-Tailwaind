@@ -20,4 +20,6 @@ Explore my personal website by clicking [here](https://kashiekzmi.github.io/Pers
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/kashiekzmi/). I appreciate your interest in my personal website!
 
-**Note:** This repository is for reference purposes. The website contains data about me up until the time I created it and is not intended for further updates.
+## Note
+
+This repository is for reference purposes. The website contains data about me up until the time I created it and is not intended for further updates.
